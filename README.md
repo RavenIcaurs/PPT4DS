@@ -5,8 +5,8 @@
 
 ### 预览
 
-<img src="C:\Users\胡一凡\Desktop\PPT_sample\image-show-1" alt="image-20221022122258917" style="zoom: 25%;" />
+<img src="image-show-1" alt="image-20221022122258917" style="zoom: 25%;" />
 
-<img src="C:\Users\胡一凡\Desktop\PPT_sample\image-show-2" alt="image-20221022122319463" style="zoom: 25%;" />
+<img src="image-show-2" alt="image-20221022122319463" style="zoom: 25%;" />
 
-<img src="C:\Users\胡一凡\Desktop\PPT_sample\image-show-3" alt="image-20221022122431629" style="zoom:25%;" />
+<img src="image-show-3" alt="image-20221022122431629" style="zoom:25%;" />
