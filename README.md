@@ -9,4 +9,4 @@
 
 <img src="C:\Users\胡一凡\Desktop\PPT_sample\image-show-2" alt="image-20221022122319463" style="zoom: 25%;" />
 
-<img src="C:\Users\胡一凡\AppData\Roaming\Typora\typora-user-images\image-show-3" alt="image-20221022122431629" style="zoom:25%;" />
+<img src="C:\Users\胡一凡\Desktop\PPT_sample\image-show-3" alt="image-20221022122431629" style="zoom:25%;" />
